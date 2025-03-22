@@ -38,7 +38,7 @@ Manual testing ensures the software quality by identifying issues before release
 ## 🔹 Test Report Summary Screenshot: 
 ![Image](https://github.com/user-attachments/assets/5f642221-9dab-4cdb-8daf-41897a76435f)
 
-![Image](https://github.com/user-attachments/assets/33176e0c-a087-43e0-87da-59d6a8872ec3)
+![Image](https://github.com/user-attachments/assets/cf038f0d-011b-488e-b686-6c77c8e59108)
 ---
 📌 **Contributor**: Rupa Dey  
 📅 **Last Updated**: 23th march, 2025
