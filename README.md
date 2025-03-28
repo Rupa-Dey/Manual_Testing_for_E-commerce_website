@@ -33,7 +33,10 @@ The testing procedure will cover:
   -**Screenshot** 
 
 ## 🔹 Conclusion  
-Manual testing ensures the software quality by identifying issues before release. Follow the outlined process to execute test cases efficiently.  
+Manual testing ensures software quality by identifying issues before release. Follow the outlined process to execute test cases efficiently.  
+
+## 🔹 MindMap to get better understanding
+![Image](https://github.com/user-attachments/assets/f9806c28-b1b6-4d3f-8153-11a8e4f83968)
 
 ## 🔹 Test Report Summary Screenshot: 
 ![Image](https://github.com/user-attachments/assets/5f642221-9dab-4cdb-8daf-41897a76435f)
